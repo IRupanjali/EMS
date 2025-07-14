@@ -1,9 +1,4 @@
-# EMS
-A simplified Employee Management System (EMS).
-
-#################################################################################################################################################################################
-
-(Data Preprocessing and EDA)** and (Machine Learning & Deep Learning Models)** of Employee Attrition & Performance project:
+Data Preprocessing and EDA** and (Machine Learning & Deep Learning Models)** of Employee Attrition & Performance project:
 
 # Employee Attrition and Performance Prediction
 
