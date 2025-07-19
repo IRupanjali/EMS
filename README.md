@@ -7,7 +7,7 @@ This project analyzes employee data to uncover patterns behind attrition and pre
 
 ## 📁 Dataset Description
 
-**File:** `employee_data.csv`  
+**File:** employee_data.csv  
 **Shape:** 100 rows × 8 columns  
 **Columns:**
 - `EmployeeID`: Unique identifier
